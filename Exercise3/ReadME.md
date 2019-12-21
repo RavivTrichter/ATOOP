@@ -1,4 +1,4 @@
-Using a MVC model we created a game that depends on time (generations), which takes place in the sea. There are Ports that the different boats need to get to : Patrol Boats, Cargo Boats. Additionally there are pirate boats in the sea that are trying to steal goods from the boats.
+Using a MVC model we created a game that is time dependant (generations), which takes place in the sea. There are Ports that the different boats need to get to : Patrol Boats, Cargo Boats. Additionally there are pirate boats in the sea that are trying to steal goods from the boats.
 Given an input, the boats move to the same direction as they are unless you give them a new direction.
 
 Design Patterns used : Abstarct Factory, Singleton (Model).
